@@ -1,10 +1,6 @@
 # Authors
 
--   [Harshit Trivedi](harshit.trivedi@dal.ca)
--   [Ketan Bhalerao](kt329967@dal.ca)
--   [Nuthalapati Praneeth](pr455456@dal.ca)
--   [Shah Devam](dv592381@dal.ca)
--   [Zhou Yitong](yt760204@dal.ca)
+KIRUTHIKA S
 
 # Overview
 
